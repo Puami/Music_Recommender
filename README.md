@@ -10,6 +10,7 @@
 
   
   
+ 
   
   
 ## About The Project:
@@ -19,20 +20,21 @@ this bot helps you reach your intrests in different genre of musics or different
 this bot has additional features like download the music or play the music online and even mark that song as your favorite song.
 we keep the progress everyday and will the update the bot and our repository.
 
+  
+  
   ## Technical Specifications:  
 - Programming Languages: python
 
   
   
   
- 
 ## Functional Requirements:  
 - User can download the music or play it online
 - User can add the song to their favorites
 
   
   
-  
+
 ## Project Members:  
 
 Name | Student Number | Username
