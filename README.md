@@ -31,7 +31,6 @@ we keep the progress everyday and will the update the bot and our repository.
   ![photo2](https://github.com/Puami/Music_Recommender/assets/132097813/cd0bc595-61d1-4b58-b302-02191ce42371)
   
   <br/><br/>
-  <br/><br/>
   ![photo8](https://github.com/Puami/Music_Recommender/assets/132097813/927ce971-a04e-45e3-9022-279634e4691d)
 
   
