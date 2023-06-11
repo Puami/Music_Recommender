@@ -30,7 +30,6 @@ we keep the progress everyday and will the update the bot and our repository.
 <br/><br/>  
 ## Functional Requirements:  
 - User can play the music online
-- User can add the song to their favorites
 
   
   
