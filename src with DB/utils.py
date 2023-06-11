@@ -2,7 +2,7 @@ import telebot
 
 from models import Music
 
-TOKEN = '6223161806:AAEHWCy52jCr-MY6d-cE0nSs1IyvOj_5Tas'
+TOKEN = 'token'
 
 bot = telebot.TeleBot(TOKEN)
 
