@@ -19,6 +19,8 @@
 this bot helps you reach your intrests in different genre of musics or different singers and gives you the simillar songs that you like based on what you have searched for.
 this bot has additional features like play the music online and even mark that song as your favorite song on your spotify account.
 we keep the progress everyday and will the update the bot and our repository.
+  
+here is the telegram bot id for you to use : https://t.me/MusicAi4u_bot
 
   
  <br/><br/> 
